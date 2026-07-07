@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c96badf9d13e2a94db7d96c5250f4566, type: 3}
+  m_Name: W2_L6_Freight
+  m_EditorClassIdentifier: 
+  LevelId: W2_L6
+  SaveSeed: 388830
+  Width: 48
+  Height: 24
+  FloorRow: 0
+  Solids: []
+  FloorGaps: []
+  Spawn: {x: 10, y: 3}
+  MaxEchoes: 2
+  EnabledGates: 0
+  Plates:
+  - LinkId: 1
+    Min: {x: 25, y: 0.9}
+    Max: {x: 35, y: 2.2}
+  Doors:
+  - LinkId: 1
+    Center: {x: 40, y: 3}
+    HalfExtents: {x: 0.5, y: 3}
+    Invert: 0
+  Quorums: []
+  Crates:
+  - Position: {x: 12, y: 1.4}
+    HalfExtents: {x: 0.6, y: 0.4}
+  Hazards: []
+  Switches: []
+  SwitchDoors: []
+  BouncePads: []
+  Portals: []
+  TimeFields: []
+  Magnets: []
+  Metals: []
+  ArrivalCheckpoints: []
+  ArrivalDoors: []
+  Torches: []
+  TorchDoors: []

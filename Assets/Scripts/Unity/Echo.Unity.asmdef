@@ -1,0 +1,19 @@
+{
+    "name": "Echo.Unity",
+    "rootNamespace": "",
+    "references": [
+        "Echo.Core",
+        "Echo.Infra",
+        "Echo.Gameplay",
+        "Echo.Services"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
