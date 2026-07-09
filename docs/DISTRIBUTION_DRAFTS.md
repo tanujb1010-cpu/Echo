@@ -1,7 +1,12 @@
 # Distribution drafts — Reddit post & itch.io page copy
 
 Not part of the game. Reference copy for posting Echo to itch.io and Reddit for free
-playtesting feedback. Fill in the itch.io URL once the page exists, then paste into Reddit.
+playtesting feedback.
+
+**itch.io page is live: https://tanuj-bh.itch.io/echo** — published with cover image,
+description, and 3 screenshots. The itch.io section below is kept for reference/reuse
+(editing the live page, future updates); the Reddit section still needs `[link]` filled
+in with the URL above before posting.
 
 ---
 
@@ -73,7 +78,7 @@ specific days/megathreads):
 > that proves a level *can* be solved — not that it's *fun*. That's the actual gap
 > this post is trying to close.
 >
-> Windows only, free, no install — download, unzip, run. [link]
+> Windows only, free, no install — download, unzip, run. https://tanuj-bh.itch.io/echo
 >
 > Would genuinely appreciate anyone willing to play a level or two and say what
 > confused them, where you got stuck, or where it clicked. Bug reports welcome too.
@@ -81,8 +86,6 @@ specific days/megathreads):
 ---
 
 ## Notes for whoever posts this
-- Replace `[link]` / `[wherever you'd like it routed]` before posting.
-- itch.io lets you attach the same `Builds/Echo_Windows_v1.0.zip` used for direct
-  sharing — no separate packaging needed.
-- Consider a screenshot or short clip; text-only posts perform worse on itch.io and
-  most of the suggested subreddits.
+- Replace `[wherever you'd like it routed]` (the feedback-routing line) before posting —
+  the download link is already filled in above.
+- Screenshots: done — 3 are live on the itch.io page.

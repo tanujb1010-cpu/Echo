@@ -4,6 +4,9 @@
 
 **Echo** is a 2.5D puzzle-platformer about collaborating — and eventually negotiating — with recordings of your past selves. Every action you perform is permanently recorded. When you restart a level, your previous runs replay as **ghost clones** ("Echoes"). Early Echoes obey perfectly. Later ones get *curious, stubborn, and occasionally treacherous.* You don't just solve puzzles with your past — you have to manage it.
 
+### ▶ [Play it free on itch.io](https://tanuj-bh.itch.io/echo)
+Windows, no install — unzip and run. This is a playtest build; see [Build Status](#build-status) below for exactly what that means.
+
 ---
 
 ## The One-Line Pitch
